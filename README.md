@@ -10,3 +10,4 @@
 8. When JDK finished installed, click on File -> Project Structure -> Modules -> Dependencies, then click on 17(Amazon...) and click OK to make sure, that its added and compile.
 9. Click on Main_Form.java (Main Form Java Class).
 10. Compile and run the program.
+11. Enjoy ;)
